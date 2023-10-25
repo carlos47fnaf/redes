@@ -10,7 +10,7 @@ header {
 }
 
 .titulo {
-    color: #2CEF6E;
+    color: #29a352;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.39);    font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -28,7 +28,6 @@ footer{
 .verde{
     color: #ffffff;
     font-size: 20px;
-    background-color: #2CEF6E;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -36,7 +35,7 @@ footer{
 }
 
 .branco{
-    color: #2CEF6E;
+    color: #ffffff;
     font-size: 20px;
     display: flex;
     flex-direction: row-reverse;
@@ -45,9 +44,9 @@ footer{
 }
 
 .mapa{
-    color: #ffffff;
+    color: #29a352;
     font-size: 20px;
-    background-color: #2CEF6E;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -75,4 +74,8 @@ img{
 
 iframe{
     margin-bottom: 3rem;
+}
+
+html {
+    background-color: #29a352;
 }
